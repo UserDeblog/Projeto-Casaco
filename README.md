@@ -16,7 +16,7 @@ Codigos exclusivo pensado em você, promovido por Samuel para Uma declaração o
 </p>
 
 <p align="center">
-  <img alt="Foto de um gatinho" src="https://i.pinimg.com/236x/b3/dc/5f/b3dc5f2d6666e86995b49af3cfb29f67.jpg" width="70%">
+  <img alt="Foto de um gatinho" src="https://i.pinimg.com/236x/b3/dc/5f/b3dc5f2d6666e86995b49af3cfb29f67.jpg" width="50%">
 </p>
 
 <br>
