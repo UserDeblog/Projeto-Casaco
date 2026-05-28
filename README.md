@@ -15,6 +15,10 @@ Codigos exclusivo pensado em você, promovido por Samuel para Uma declaração o
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
+<p align="center">
+  <img alt="calendario da copa" src="[.github/preview.jpg](https://png.pngtree.com/png-clipart/20240218/original/pngtree-kitten-with-heart-in-on-valentine-s-day-png-image_14344083.png)" width="100%">
+</p>
+
 <br>
 
 ## 🚀 COMO?
