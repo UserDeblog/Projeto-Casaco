@@ -12,7 +12,7 @@ Codigos exclusivo pensado em você, promovido por Samuel para Uma declaração o
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="License" src="https://i.pinimg.com/236x/d9/99/2a/d9992af7e9da385b159642e35604bd53.jpg">
 </p>
 
 <p align="center">
