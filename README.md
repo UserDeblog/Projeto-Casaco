@@ -16,7 +16,7 @@ Codigos exclusivo pensado em você, promovido por Samuel para Uma declaração o
 </p>
 
 <p align="center">
-  <img alt="Foto de um gatinho" src="https://png.pngtree.com/png-clipart/20240218/original/pngtree-kitten-with-heart-in-on-valentine-s-day-png-image_14344083.png" width="100%">
+  <img alt="Foto de um gatinho" src="https://i.pinimg.com/236x/d9/99/2a/d9992af7e9da385b159642e35604bd53.jpg" width="100%">
 </p>
 
 <br>
