@@ -43,4 +43,4 @@ Sim pelo visto, Mas ainda não acabou, Você precisa guardar um segredo por mim
 
 ---
 
-Feito com ♥ by Samuel:wave:
+Feito com ♥ by Samuel
