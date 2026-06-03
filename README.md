@@ -31,11 +31,11 @@ O projeto foi produzido por longos meses de aprendizagem, Com o objetivo de trei
 
 ## 🔖 Layout
 
-Você pode visualizar meu carinho expresso atraves [DESSE LINK](https://www.pensador.com/te_amo_muito/). É necessário ter Amor para acessá-lo.
+Você pode visualizar meu carinho expresso atraves [desse link](https://userdeblog.github.io/Projeto-Casaco/#). É necessário ter Amor para acessá-lo.
 
 ## :memo: Te amo?
 
-Sim pelo visto, Mas ainda não acabou, Você precisa guardar um segredo por mim
+Sim pelo visto, Mas ainda não acabou, Você precisa clicar nesse link em cima 🙄 
 
 ---
 
