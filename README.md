@@ -12,10 +12,6 @@ Codigos exclusivo pensado em você, promovido por Samuel para Uma declaração o
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
-<p align="center">
   <img alt="Foto de um gatinho" src="https://i.pinimg.com/236x/b3/dc/5f/b3dc5f2d6666e86995b49af3cfb29f67.jpg" width="30%">
 </p>
 
